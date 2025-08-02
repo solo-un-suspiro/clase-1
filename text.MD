@@ -225,3 +225,4 @@ Atributos comunes en `<input>`:
 * [W3Schools HTML Tutorial](https://www.w3schools.com/html/) – Tutorial interactivo paso a paso.
 * [FreeCodeCamp Curso HTML en Español](https://www.youtube.com/watch?v=ELSm-G201Ls) – Curso en video.
 
+### Examen: https://docs.google.com/forms/d/e/1FAIpQLSczNI-acigOSpFy2l7TqGoIjljiU55Y87c8f_0DkjyLn6Egzg/viewform?fbzx=-96780981888977919
